@@ -1,0 +1,1 @@
+# plataforma-raspadinha-gratis
