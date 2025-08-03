@@ -8,6 +8,7 @@ Tenho sua propria plataforma gastando inicialmente nada!
 - Dados ficticions ON/OFF
 - Bonus ON/OFF
 - Deposito minimo
+- Conta Influencer
 - Painel admin (em desenvolvimento, exibe apenas dashboard)
 
 Custo de 10% sobre depósitos (split).
