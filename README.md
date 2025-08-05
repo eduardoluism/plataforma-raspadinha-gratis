@@ -9,9 +9,11 @@ Tenho sua propria plataforma gastando inicialmente nada!
 - Bonus ON/OFF
 - Deposito minimo
 - Conta Influencer
-- Painel admin (em desenvolvimento, exibe apenas dashboard)
+- Suporte chat com IA
+- Painel admin (em desenvolvimento)
+- Gateawy de pagamento gerapix.digital
 
-Custo de 10% sobre depósitos (split).
+Custo de 12% sobre depósitos (split).
 Demo em: https://taraspadinha.online
 
 Contato: https://t.me/drcloud8
