@@ -3,7 +3,9 @@
 Tenho sua propria plataforma gastando inicialmente nada!
 - Atualizações inclusas
 - Hospedagem incluso
-- Pronta para FB Pixel.
+- Pixel FB ADS
+- Pixel Kawai ADS
+- Tag Google Analitycs
 - Cores: green, gold, purple, pink
 - Dados ficticions ON/OFF
 - Bonus ON/OFF
